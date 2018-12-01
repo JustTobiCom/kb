@@ -29,4 +29,8 @@
     * [Access Levels](applications/pleasant-password-server/installation/access-levels.md)
     * [Roles](applications/pleasant-password-server/installation/roles.md)
   * [Best practice](applications/pleasant-password-server/best-practice.md)
+* [Veeam Backup & Replication](applications/veeam-backup-and-replication/README.md)
+  * [HowTo](applications/veeam-backup-and-replication/howto/README.md)
+    * [File level restore](applications/veeam-backup-and-replication/howto/file-level-restore.md)
+  * [Best Practices \(external\)](https://bp.veeam.expert)
 
